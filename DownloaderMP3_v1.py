@@ -4,6 +4,8 @@
 #                                                                          #
 ############################################################################
 
+# pip install requests beautifulsoup4 
+
 import os
 import requests
 from bs4 import BeautifulSoup
